@@ -1,0 +1,1 @@
+execute as @e[type=fishing_bobber] run function orbital:nuke_shot

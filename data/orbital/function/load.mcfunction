@@ -1,0 +1,1 @@
+tellraw @a {"text":"Thank you for downloading OrbitalStrike Beta 0.1 by schnipelberger. Check out updates at https://modrinth.com/project/orbitalstrike_by_schnipelberger","color":"green"}

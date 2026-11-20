@@ -1,0 +1,1 @@
+give @s fishing_rod[custom_name={"text":"Nuke Shot"}]
